@@ -123,4 +123,4 @@ function SignIn() {
   );
 }
 
-export default withRoot(withStyles(useStyles)(SignIn));
+export default withRoot(SignIn);
