@@ -15,7 +15,6 @@ import Typography from "@material-ui/core/Typography";
 import signInImg from "../images/lePenseur.png";
 import PoweredByApptelier from "../modules/components/PoweredByApptelier";
 import { makeStyles } from "@material-ui/core/styles";
-import { withStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles((theme) => ({
   root: {
